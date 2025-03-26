@@ -11,13 +11,13 @@
 				<string>HTTPS</string>
 				<key>ServerAddresses</key>
 				<array>
-					<string>82.66.205.213</string>
+					<string>94.23.34.122</string>
 				</array>
 				<key>ServerURL</key>
-				<string>https://dns.gopnik.net/dns-query</string>
+				<string>https://dns.iab.lu/dns-query</string>
 			</dict>
 			<key>PayloadDescription</key>
-			<string>Configures device to use GopnikNet Encrypted DNS over HTTPS</string>
+			<string>Configures device to use IAB.lu Encrypted DNS over HTTPS</string>
 			<key>PayloadDisplayName</key>
 			<string>GopnikNet DNS over HTTPS</string>
 			<key>PayloadIdentifier</key>
